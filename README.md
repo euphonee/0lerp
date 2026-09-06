@@ -1,4 +1,7 @@
 # tf2 0 lerp real.
+
+![netgraph](assets/netgraph.png)
+
 \>completely removes clientside interpolation of entities (closest thing to 0 lerp)<br>
 \>effects of cvar `cl_interp 0` and `cl_interp_ratio 0` that would apply in a `sv_client_min_interp_ratio 0` environment are purely visual in net graph<br>
 \>`cl_updaterate 25000` and `cl_cmdrate 100` are purely visual in net graph
