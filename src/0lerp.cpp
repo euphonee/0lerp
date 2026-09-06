@@ -1,5 +1,5 @@
-// 0lerp.dll - clientside interpolation/HUD patches for tf_win64.exe (offline / -insecure).
-// Each patch is verified against its expected bytes before applying, and restored on unload.
+// 0lerp.dll - clientside interpolation/HUD patches for tf_win64.exe
+// Each patch is verified against its expected bytes before applying, and restored on unload
 
 #include <windows.h>
 #include <psapi.h>
