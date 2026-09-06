@@ -1,0 +1,8 @@
+# build artifacts (binaries are published as release assets)
+*.obj
+*.res
+*.exp
+*.lib
+*.dll
+*.exe
+*.pdb
