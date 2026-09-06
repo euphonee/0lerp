@@ -1,4 +1,4 @@
-# tf2 0 lerp real.
+# tf2 0 lerp real
 
 ![netgraph](assets/netgraph.png)
 
