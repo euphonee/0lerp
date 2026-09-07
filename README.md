@@ -8,7 +8,7 @@
 #
 Your antivirus will probably flag either of the assets as malicious, this is due to the nature of all code-injecting and memory-manipulating programs. For that reason, disable antivirus and exclude the file.
 #
-⚠⚠ I am **not** responsible for actions that might be taken against your account if any binaries are run/injected within a secure environment. Use alt-account or launch with `-insecure` to avoid joining VAC-secured servers.<br><br><br>
+⚠⚠ While supposedly undetected, I am **not** responsible for actions that might be taken against your account if any binaries are run/injected within a secure environment. Use alt-account or launch with `-insecure` to avoid joining VAC-secured servers.<br><br><br>
 <details>
 <summary>ㅤ</summary>
 
